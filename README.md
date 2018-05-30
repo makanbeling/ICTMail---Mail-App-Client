@@ -7,3 +7,4 @@ Program Tugas Akhir - Aplikasi Email Client menggunakan Algoritma Kriptografi AE
 Final Project - Email Client Application using AES and RC4 Cryptography Algorithm. Only Email Gmail, Yahoo and AOL Mail.
 
 # WWW.RYFAN.NET
+#forked
